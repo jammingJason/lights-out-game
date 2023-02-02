@@ -1,0 +1,9 @@
+.Board {
+  margin: 0 auto;
+  border: 2px solid hotpink;
+}
+.winner{
+  color: red;
+  font-size: 1.5rem;
+  text-align: center;
+}
